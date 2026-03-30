@@ -1,1 +1,13 @@
-# MIKUMAKULIL.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Example</title>
+    <link rel="stylesheet" href="style.css">
+    <title>HEY APPLE LOOK!!</title>
+</head>
+<body>
+<p style="color: red">так делать буквы!!!</p>
+<p><em>ДАРОВА!!!Я тут живу!!!!!!</em> Точнее это склад, я тут делаю все что захочу!</p>
+<p>Смысла нет, мертвые будут завидовать живыым!!!!</p>
+<p> <strong>Короче тема делать свои странички.</strong> Не уверена, можно ли их заблокировать или обойти впн или просто, но вообще это весело. Наверно. Пока изучаю тут чуть чуть...</p>
+    
